@@ -1,3 +1,10 @@
+//
+//  c 수행 예제5번.c
+//  c_1
+//
+//  Created by Hyun Seo Jung on 2022/10/13.
+//
+
 #include <stdio.h>
 
 int main(){
